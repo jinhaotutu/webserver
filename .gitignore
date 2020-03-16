@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+STM32F4x7_ETH_LwIP_V1.1.1_webserver/Project/Standalone/web_server/MDK-ARM
+
+.vscode
